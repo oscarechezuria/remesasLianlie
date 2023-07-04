@@ -12,6 +12,7 @@ export default {
       one: "#fcc000",
       two: "#ffffff",
       three: "#242424",
+      black: "#000000",
     },
   },
   plugins: [],
